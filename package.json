@@ -1,0 +1,26 @@
+{
+"name": "dixsbuttonfadeanimation",
+"version": "1.0.0",
+"description": "This repository contains JavaScript code to implement a fade-in fade-out animation effect for a button.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/Edixs/ButtonFadeAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "Edixs",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
